@@ -10,4 +10,5 @@ To view the site locally visit: https://github.com/robdub93/Biotechnology---CR.g
   <li>https://robdub93.github.io/Biotechnology---CR/page2.html</li>
   <li>https://robdub93.github.io/Biotechnology---CR/page3.html</li>
 </ol>
+Content sourced from Google AI
 
