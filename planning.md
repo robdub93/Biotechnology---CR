@@ -19,6 +19,20 @@ The target audience is anyone interested in biotechnology or science in general
 </ul>
 The navigation structure that I chose is to link to the next page at the bottom of the current page. This was done to encourage the reader to continue through the website linearly.
 <br>
+<h3>Discussion of HTML and CSS evolution</h3>
+<h4>HTML</h4>
+<ul>
+  <li>1990: Tim Berners-Lee invented HTML at CERN to share scientific documents on the internet</li>
+  <li>1993: First public HTML version is released but it is basic</li>
+  <li>1995: HTML 2.0 becomes the first official standard</li>
+  <li>1997: Tables, forms and scripting supposrt added</li>
+  <li>1999: Improves structure, accessibility, and support for CSS and Javascript</li>
+  <li>2000: XML-based version of HTML created aimed at cleaner code</li>
+  <li>2014: Semantic elements added</li>
+  <li>Present: HTML continues to evolve, supporting modern, interactive web applications</li>
+</ul>
+Source: Chatgpt
+<br>
 <h3>4 HTML tags I plan to use effectively</h3>
 <ul>
   <li><strong>br tag:</strong> I'm using this tag as it is key to splitting up the site into sections</li>
