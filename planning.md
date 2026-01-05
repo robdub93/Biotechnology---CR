@@ -10,6 +10,13 @@ The target audience is anyone interested in biotechnology or science in general
   <li><strong>page2.html:</strong> <em>Key areas and examples:</em> To demonstrate the utility of the material and how it works</li>
   <li><strong>page3.html:</strong> <em>Modern techniques:</em> To show where the field is at now and where it could be going</li>
 </ol>
+<h3>Design decisions</h3>
+<ul>
+  <li>Used a H1 heading on the opening page to welcome the viewer to the topic of biotechnology</li>
+  <li>Used lists on all three pages as it made the content visually appealing and easy to digest</li>
+  <li>Used bold and italics throughout the website to make the information clear</li>
+  <li>Put a link to the next page at the end of the pages so as to make it easy for the reader to continue on with the material</li>
+</ul>
 The navigation structure that I chose is to link to the next page at the bottom of the current page. This was done to encourage the reader to continue through the website linearly.
 <br>
 <h3>4 HTML tags I plan to use effectively</h3>
